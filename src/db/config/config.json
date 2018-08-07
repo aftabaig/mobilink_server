@@ -7,10 +7,10 @@
     "dialect": "postgres"
   },
   "production": {
-    "username": "ymslaean",
-    "password": "7ippXIevBVtjGrPE2UYMdcd1wHSMxbu8",
-    "database": "ymslaean",
-    "host": "baasu.db.elephantsql.com",
+    "username": "postgres",
+    "password": "university",
+    "database": "mobilink",
+    "host": "127.0.0.1",
     "dialect": "postgres"
-  }
+}
 }
